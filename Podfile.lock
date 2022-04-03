@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyOAuth (1.1)
+
+DEPENDENCIES:
+  - SwiftyOAuth (~> 1.1)
+
+SPEC REPOS:
+  trunk:
+    - SwiftyOAuth
+
+SPEC CHECKSUMS:
+  SwiftyOAuth: 2f775155944954ba01ef413746d36f4e1486c561
+
+PODFILE CHECKSUM: 19e8207025890ba2938069f8f6e01bfba880fd38
+
+COCOAPODS: 1.8.4
